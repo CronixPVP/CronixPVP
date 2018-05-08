@@ -1,2 +1,2 @@
 # CronixPVP
-Official Webpage
+This website is under construction.
